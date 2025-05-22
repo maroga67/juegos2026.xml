@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Juegos más esperados de 2026</title>
+    <link>https://www.gamingPS5.com</link>
+    <description>Las últimas novedades sobre los títulos más esperados del mundo gamer en 2026</description>
+    <language>es-es</language>
+    <atom:link href="https://www.gamingPS5.com" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 May 2025 12:00:00 GMT</lastBuildDate>
+
+    <item>
+      <title>Starfield: Galaxy Wars</title>
+      <link>https://www.techzonegaming.com/articulos/starfield-galaxy-wars</link>
+      <description>Starfield regresa en 2026 con una ambiciosa expansión multijugador ambientada en una nueva galaxia.</description>
+      <pubDate>Mon, 19 May 2025 10:00:00 GMT</pubDate>
+      <category>RPG Espacial</category>
+    </item>
+
+    <item>
+      <title>Elden Ring II</title>
+      <link>https://www.techzonegaming.com/articulos/elden-ring-2</link>
+      <description>La secuela directa del galardonado Elden Ring se perfila como uno de los títulos más oscuros y difíciles del año.</description>
+      <pubDate>Sun, 18 May 2025 10:00:00 GMT</pubDate>
+      <category>Action RPG</category>
+    </item>
+
+    <item>
+      <title>Grand Theft Auto VI</title>
+      <link>https://www.techzonegaming.com/articulos/gta-6-avance</link>
+      <description>GTA VI finalmente se lanzará en 2026 y traerá una ciudad inspirada en Río de Janeiro con nuevas mecánicas de narrativa.</description>
+      <pubDate>Fri, 17 May 2025 10:00:00 GMT</pubDate>
+      <category>Mundo Abierto</category>
+    </item>
+
+    <item>
+      <title>The Witcher 4</title>
+      <link>https://www.techzonegaming.com/articulos/witcher-4-nuevo-protagonista</link>
+      <description>CD Projekt RED revela detalles del nuevo protagonista de The Witcher 4, ambientado años después de la saga de Geralt.</description>
+      <pubDate>Wed, 15 May 2025 10:00:00 GMT</pubDate>
+      <category>Fantasía</category>
+    </item>
+
+  </channel>
+</rss>
